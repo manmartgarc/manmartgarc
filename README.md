@@ -1,6 +1,6 @@
 ### Hi there traveler 👋
 
-My name is [Manuel Martinez](https://manmartgarc.github.io) and I am a Research Analyst at Yale's [Tobin Center for Economic Policy](https://economics.yale.edu/tobin-center) for Yale's Assistant Professor of Economics [John Eric Humphries](https://johnerichumphries.com/), and also for Princeton's Assistant Professor of Economics and Public Affairs [Christopher Neilson](https://christopherneilson.github.io). I also work as a data scientist for [ConsiliumBots](https://www.consiliumbots.com) an NGO that leverages economic theory and technology to make navigation in education markets easier for families and students.
+My name is [Manuel Martinez](https://manmartgarc.github.io) and I am a Research Analyst at Yale's [Tobin Center for Economic Policy](https://economics.yale.edu/tobin-center) for Yale's Assistant Professor of Economics [John Eric Humphries](https://johnerichumphries.com/), and also for Princeton's Assistant Professor of Economics and Public Affairs [Christopher Neilson](https://christopherneilson.github.io). I also work as a data scientist for [ConsiliumBots](https://www.consiliumbots.com), an NGO that leverages economic theory and technology to make navigation in education markets easier for families and students.
 
 My own interests lie within the intersection of the fields of education, public policy, computer science and technology. Interests beyond academia include anything computers, music, cars, and the natural sciences in general.
 
